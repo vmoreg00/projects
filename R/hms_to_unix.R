@@ -5,7 +5,7 @@
 
 hms_to_unix <- function(hms, date = NULL){
   if(is.null(date)){
-    date <- "197-01-01"
+    date <- "1970-01-01"
   }
   time <- as.POSIXct(paste(date, hms), tz = "UTC", format = "%Y-%m-%d %H:%M:%S")
   time <- as.numeric(time)
