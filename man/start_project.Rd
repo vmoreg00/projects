@@ -15,10 +15,6 @@
   Path where the project is going to be saved (Default: working directory)
 }
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
-
 \author{
 Víctor Moreno-González <vmorg@unileon.es>
 }

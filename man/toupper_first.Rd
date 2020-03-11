@@ -21,3 +21,4 @@ Víctor Moreno-González <vmorg@unileon.es
 }
 \examples{
 toupper_first("hola")
+}
