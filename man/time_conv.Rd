@@ -1,5 +1,6 @@
 \name{time_conv}
-\alias{time_conv}
+\alias{unix_to_epoch}
+\alias{epoch_to_unix}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{Convert time between UNIX and epoch formats}
 \description{
